@@ -1,5 +1,0 @@
-setup.py
-doctor_appointment_multiagent.egg-info/PKG-INFO
-doctor_appointment_multiagent.egg-info/SOURCES.txt
-doctor_appointment_multiagent.egg-info/dependency_links.txt
-doctor_appointment_multiagent.egg-info/top_level.txt
